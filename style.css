@@ -30,6 +30,7 @@ body {
 }
 
 .progress-container::before {
+    content: "";
     background-color: #3498db;
     position: absolute;
     top: 50%;
